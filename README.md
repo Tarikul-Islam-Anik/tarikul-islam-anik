@@ -6,8 +6,7 @@ I enjoy creating websites, applications, or anything in between. I've completed 
 
 ## Skills <img src="assets/images/Rocket.png" width="30">
 
-In recent years, I've been learning new technologies and languages. These are the ones I've learned so far. <br/>
-<small>Hover over the emoji to check the level of proficiency as alt text.</small>
+In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
 | **#** | **Language** | **Proficiency** |
 | :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
 |<img src="assets/icons/StackOverflow.svg" width="25">|`CTRL+C & CTRL+V`|<img src="assets/images/Fire.png" alt="Mastery" width="25">|
@@ -39,8 +38,9 @@ In recent years, I've been learning new technologies and languages. These are th
 
 ## Github Stats <img src="assets/images/Bar Chart.png" width="30">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikul-Islam-Anik&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarikul-Islam-Anik&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
+<nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarikul-Islam-Anik&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikul-Islam-Anik&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
+</nobr>
 
 ## Disocrd Activity <img src="assets/images/Cyclone.png" width="30">
 
@@ -65,11 +65,11 @@ In recent years, I've been learning new technologies and languages. These are th
 
 ## Loved my work? <img src="assets/images/Heart on Fire.png" width="30">
 
-<img src="assets/images/star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik) <br/>
+<img src="assets/images/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik) <br/>
 <img src="assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/Tarikul-Islam-Anik)<br/>
 <img src="assets/images/Globe with Meridians.png" width="25"/>&nbsp;[Checkout my portfolio](https://oxyzen.me/)<br/>
 <img src="assets/images/Writing Hand Light Skin Tone.png" width="25"/>&nbsp;[Read my blogs](https://oxyzen.me/blogs)<br/>
-<img src="assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://ko-fi.com/oxyzen) <small>(Tired of drinking Tea)</small>
+<img src="assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://ko-fi.com/oxyzen) (Tired of drinking Tea)
 
 > <img src="assets/images/Thinking Face.png" width="25"/> &nbsp; Wondering where to get these animated emojis?
 > [Visit here!](https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis)
