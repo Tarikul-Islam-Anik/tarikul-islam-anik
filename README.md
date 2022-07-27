@@ -49,11 +49,11 @@ In recent years, I've been learning new technologies and languages. These are th
 
 ## Life Tracker
 
-- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://nameless-eyrie-77546.herokuapp.com/tea"/> cups.
-- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://nameless-eyrie-77546.herokuapp.com/code"/>
-- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://nameless-eyrie-77546.herokuapp.com/debug"/>
-- <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://nameless-eyrie-77546.herokuapp.com/thinking"/> hours.
-- <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://nameless-eyrie-77546.herokuapp.com/views"/>
+- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/tea"/> cups.
+- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/code"/>
+- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/debug"/>
+- <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/thinking"/> hours.
+- <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/views"/>
 - <img src="assets/images/Robot.png" width="25"> Projects Completed: `4`
 - <img src="assets/images/Hourglass Done.png" width="25"> Daily Working Hours: `~ 8 Hours`
 
