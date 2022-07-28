@@ -41,6 +41,7 @@ In recent years, I've been learning new technologies and languages. These are th
 <nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarikul-Islam-Anik&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikul-Islam-Anik&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
 </nobr>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tarikul-Islam-anik&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
 
 ## Disocrd Activity <img src="assets/images/Cyclone.png" width="30">
@@ -49,11 +50,11 @@ In recent years, I've been learning new technologies and languages. These are th
 
 ## Life Tracker
 
-- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/tea"/> cups.
-- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/code"/>
-- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/debug"/>
-- <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/thinking"/> hours.
-- <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://oxy-github-readme-tracker.glitch.me/views"/>
+- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/tea"/> cups.
+- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/code"/>
+- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/debug"/>
+- <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/thinking"/> hours.
+- <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/views"/>
 - <img src="assets/images/Robot.png" width="25"> Projects Completed: `4`
 - <img src="assets/images/Hourglass Done.png" width="25"> Daily Working Hours: `~ 8 Hours`
 
@@ -73,6 +74,6 @@ In recent years, I've been learning new technologies and languages. These are th
 <img src="assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://ko-fi.com/oxyzen) (Tired of drinking Tea)
 
 > <img src="assets/images/Thinking Face.png" width="25"/> &nbsp; Wondering where to get these animated emojis?
-> [Visit here!](https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis)
+> [Visit here!](https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis) You also should look around my other github repos. Maybe you'll find some cool useful stuff there.
 
 ### Thanks for visiting!&nbsp;<img src="assets/images/Partying Face.png" width="25">
