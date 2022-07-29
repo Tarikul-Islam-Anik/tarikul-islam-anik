@@ -50,11 +50,11 @@ In recent years, I've been learning new technologies and languages. These are th
 
 ## Life Tracker
 
-- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/tea"/> cups.
-- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/code"/>
-- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/debug"/>
-- <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/thinking"/> hours.
-- <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/views"/>
+- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://tracker-source-code-in-my-repo.vercel.app/tea"/> cups.
+- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://tracker-source-code-in-my-repo.vercel.app/code"/>
+- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://tracker-source-code-in-my-repo.vercel.app/debug"/>
+- <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://tracker-source-code-in-my-repo.vercel.app/thinking"/> hours.
+- <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://tracker-source-code-in-my-repo.vercel.app/views"/>
 - <img src="assets/images/Robot.png" width="25"> Projects Completed: `4`
 - <img src="assets/images/Hourglass Done.png" width="25"> Daily Working Hours: `~ 8 Hours`
 
