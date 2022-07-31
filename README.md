@@ -52,7 +52,7 @@ In recent years, I've been learning new technologies and languages. These are th
 
 - <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://gh-profile-tracker.tarikul-islamis.repl.co/tea"/> cups.
 - <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://gh-profile-tracker.tarikul-islamis.repl.co/code"/>
-- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://gh-profile-tracker.tarikul-islamis.repl.co/debug"/>
+- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://tracker-source-code-in-my-repo.vercel.app/debug"/>
 - <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://gh-profile-tracker.tarikul-islamis.repl.co/thinking"/> hours.
 - <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://gh-profile-tracker.tarikul-islamis.repl.co/views"/>
 - <img src="assets/images/Robot.png" width="25"> Projects Completed: `4`
