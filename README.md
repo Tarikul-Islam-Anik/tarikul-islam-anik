@@ -22,7 +22,7 @@ In recent years, I've been learning new technologies and languages. These are th
 |<a href="https://www.djangoproject.com/"><img src="assets/icons/Django.svg" width="25"></a>|`Django`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
 |<a href="https://dart.dev/"><img src="assets/icons/Dart-Light.svg" width="25"></a>|`Dart`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
 
-> Printed "Hellow, World!" in `15 other languesges`.
+> Printed "Hello, World!" in `15 other languesges`.
 
 ## Work & Education <img src="assets/images/Comet.png" width="30">
 
