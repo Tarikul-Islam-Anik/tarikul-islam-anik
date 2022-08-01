@@ -20,7 +20,9 @@ In recent years, I've been learning new technologies and languages. These are th
 |<a href="https://nodejs.org/"><img src="assets/icons/NodeJS.svg" width="25"></a> | `NodeJS`| <img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
 | <a href="https://expressjs.com/"><img src="assets/icons/ExpressJS.svg" width="25"></a>| `ExpressJS`| <img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
 |<a href="https://www.djangoproject.com/"><img src="assets/icons/Django.svg" width="25"></a>|`Django`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
-|<a href="https://dart.dev/"><img src="assets/icons/Dart-Light.svg" width="25"></a>|`Dart`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+|<a href="https://dart.dev/"><img src="assets/icons/Dart-Light.svg" width="25"></a>|`Dart`|<img src="assets/images/Nerd Face.png" alt="Beginner" width="25">|
+|<a href="https://dart.dev/"><img src="assets/icons/Swift.svg" width="25"></a>|`Swift`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+
 
 > Printed "Hello, World!" in `15 other languesges`.
 
