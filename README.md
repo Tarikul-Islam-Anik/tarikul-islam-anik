@@ -11,7 +11,7 @@ In recent years, I've been learning new technologies and languages. These are th
 | :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
 |<img src="assets/icons/StackOverflow.svg" width="25">|`CTRL+C & CTRL+V`|<img src="assets/images/Fire.png" alt="Mastery" width="25">|
 |<a href="https://www.python.org/"><img src="assets/icons/Python.svg" width="25"></a> | `Python`|<img src="assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25"> |
-| <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/c.svg" width="25"></a> | `C` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
+| <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/C.svg" width="25"></a> | `C` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
 | <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="assets/icons/CPP.svg" width="25"></a> | `C++` | <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25"> |
 |<a href="https://www.javascript.com/"><img src="assets/icons/JavaScript.svg" width="25"></a>|`JavaScript` | <img src="assets/images/Flexed Biceps Light Skin Tone.png" alt="Advance" width="25">|
 |<a href="https://tailwindcss.com/"><img src="assets/icons/TailwindCSS.svg" width="25"></a>| `TailwindCSS`| <img src="assets/images/Nerd Face.png" alt="Intermediate" width="25">|
