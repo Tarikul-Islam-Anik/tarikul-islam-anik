@@ -52,11 +52,11 @@ In recent years, I've been learning new technologies and languages. These are th
 
 ## Life Tracker
 
-- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://gh-profile-tracker.tarikul-islamis.repl.co/tea"/> cups.
-- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://gh-profile-tracker.tarikul-islamis.repl.co/code"/>
-- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://tracker-source-code-in-my-repo.vercel.app/debug"/>
-- <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://gh-profile-tracker.tarikul-islamis.repl.co/thinking"/> hours.
-- <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://gh-profile-tracker.tarikul-islamis.repl.co/views"/>
+- <img src="assets/images/Teacup Without Handle.png" width="25"> Tea Drinked: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/tea"/> cups.
+- <img src="assets/images/Scroll.png" width="25"> Lines of Code Written: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/code"/>
+- <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/debug"/>
+- <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://check-my-github-repo.herokuapp.com/thinking"/> hours.
+- <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://hits.sh/github.com/Tarikul-Islam-Anik.svg?label=%E3%85%A4&color=ffffff&labelColor=ffffff&logo=https%3A%2F%2Foxyzen.me%2F"/>
 - <img src="assets/images/Robot.png" width="25"> Projects Completed: `4`
 - <img src="assets/images/Hourglass Done.png" width="25"> Daily Working Hours: `~ 8 Hours`
 
