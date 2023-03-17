@@ -1,4 +1,4 @@
-# As-salamu alaykum <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="29px">
+# As-salamu alaykum <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 
 I'm Tarikul, a curious programmer, developer, and future engineer who's trying to get a bit better every day. I'm very curious about new technologies. Though I'm completing my computer science and engineering degree, I consider myself a self-taught programmer, constantly learning and always looking for improving my skills.
 
