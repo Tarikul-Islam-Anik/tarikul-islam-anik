@@ -1,6 +1,8 @@
 # As-salamu alaykum <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 
-I'm Tarikul, a curious programmer, developer, and future engineer who's trying to get a bit better every day. I'm very curious about new technologies. Though I'm completing my computer science and engineering degree, I consider myself a self-taught programmer, constantly learning and always looking for improving my skills.
+I'm Tarikul, a dedicated and self-taught programmer with a passion for crafting exceptional apps and diving into full-stack development. Over the course of three years, I have honed my coding skills and successfully completed numerous projects utilizing a range of programming languages, including Python, JavaScript, Dart, and C/C++. My enthusiasm for learning drives me to continuously explore new technologies, consistently challenging myself to expand my skill set. Currently, I am looking for an opportunity to apply my knowledge and skills in a professional environment.
+
+Let's work together to create a code powered future!
 
 I enjoy creating websites, applications, or anything in between. I've completed some projects in recent years.
 
