@@ -4,8 +4,6 @@ I'm Tarikul, a dedicated and self-taught programmer with a passion for crafting 
 
 Let's work together to create a code powered future!
 
-I enjoy creating websites, applications, or anything in between. I've completed some projects in recent years.
-
 ## Skills <img src="assets/images/Rocket.png" width="30">
 
 In recent years, I've been learning new technologies and languages. These are the ones I've learned so far.
