@@ -2,6 +2,8 @@
 
 I'm Tarikul, a dedicated and self-taught programmer with a passion for crafting exceptional apps and diving into full-stack development. Over the course of three years, I have honed my coding skills and successfully completed numerous projects utilizing a range of programming languages, including Python, JavaScript, Dart, and C/C++. My enthusiasm for learning drives me to continuously explore new technologies, consistently challenging myself to expand my skill set. Currently, I am looking for an opportunity to apply my knowledge and skills in a professional environment.
 
+Currently, I'm passionate about blockchain, machine learning, and cybersecurity. Committed to continuous learning and expertise in these domains. Always striving to stay at the cutting edge of technology.
+
 Let's work together to create a code powered future!
 
 ## Skills <img src="assets/images/Rocket.png" width="30">
@@ -21,7 +23,8 @@ In recent years, I've been learning new technologies and languages. These are th
 | <a href="https://expressjs.com/"><img src="assets/icons/ExpressJS.svg" width="25"></a>| `ExpressJS`| <img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
 |<a href="https://www.djangoproject.com/"><img src="assets/icons/Django.svg" width="25"></a>|`Django`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
 |<a href="https://dart.dev/"><img src="assets/icons/Dart-Light.svg" width="25"></a>|`Dart`|<img src="assets/images/Nerd Face.png" alt="Beginner" width="25">|
-|<a href="https://dart.dev/"><img src="assets/icons/Swift.svg" width="25"></a>|`Swift`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+|<a href="https://www.swift.org/"><img src="assets/icons/Swift.svg" width="25"></a>|`Swift`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
+|<a href="https://soliditylang.org/"><img src="assets/icons/Solidity.svg" width="25"></a>|`Solidity`|<img src="assets/images/Confused Face.png" alt="Beginner" width="25">|
 
 
 > Printed "Hello, World!" in `15 other languesges`.
