@@ -60,7 +60,7 @@ In recent years, I've been learning new technologies and languages. These are th
 - <img src="assets/images/Lady Beetle.png" width="25"> Squashed Bugs: &nbsp; <img src="https://my-github-tracker.vercel.app/debug"/>
 - <img src="assets/images/Brain.png" width="25"> Thinking Time: &nbsp; <img src="https://my-github-tracker.vercel.app/thinking"/> hours.
 - <img src="assets/images/Eyes.png" width="25"> Total Views: &nbsp; <img src="https://hits.sh/github.com/Tarikul-Islam-Anik.svg?label=%E3%85%A4&color=ffffff&labelColor=ffffff&logo=https%3A%2F%2Foxyzen.me%2F"/>
-- <img src="assets/images/Robot.png" width="25"> Projects Completed: `12`
+- <img src="assets/images/Robot.png" width="25"> Projects Completed: `15`
 - <img src="assets/images/Hourglass Done.png" width="25"> Daily Working Hours: `~ 8 Hours`
 
 ## Things I like to do in my free time <img src="assets/images/T-Rex.png" width="30">
