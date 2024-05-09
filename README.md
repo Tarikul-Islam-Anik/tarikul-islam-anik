@@ -1,10 +1,12 @@
 # As-salamu alaykum <img src="assets/images/Waving Hand Medium-Light Skin Tone.png" width="29px">
 
-I'm Tarikul, a dedicated and self-taught programmer with a passion for crafting exceptional apps and diving into full-stack development. Over the course of three years, I have honed my coding skills and successfully completed numerous projects utilizing a range of programming languages, including Python, JavaScript, Dart, and C/C++. My enthusiasm for learning drives me to continuously explore new technologies, consistently challenging myself to expand my skill set. Currently, I am looking for an opportunity to apply my knowledge and skills in a professional environment.
+I'm Tarikul, a passionate full-stack developer and undergrad student with 3 years of professional coding experience.
 
-Currently, I'm passionate about blockchain, machine learning, and cybersecurity. Committed to continuous learning and expertise in these domains. Always striving to stay at the cutting edge of technology.
+My journey began with web development, but my curiosity extends to the exciting world of AI, ML, and data science. Recently, I've delved into these fields and am eager to become a master. I also possess intermediate skills in developing cross-platform mobile apps. I’m proficient in Python, Typescript, and Dart, with a keen interest in expanding my language proficiency.
 
-Let's work together to create a code powered future!
+Throughout my time coding, I've improved my problem-solving skills through various languages and coding practices. What sets me apart is my unwavering commitment to problem-solving. I thrive on tackling challenges head-on and delivering results, no matter the complexity.
+
+In terms of my professional accomplishments, I have worked with several professional teams to ship multiple projects using highly performant web applications that are accessible and scalable.
 
 ## Skills <img src="assets/images/Rocket.png" width="30">
 
